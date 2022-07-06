@@ -1,0 +1,31 @@
+one dot: F,R,T,R',T',F'
+
+ 
+
+L Shape: F,R,T,R',T',F'
+
+ 
+
+- Rod:   F,R,T,R',T',F' ----> +
+
+ 
+
++ Aline: R,2T,R',T',R,T',R' <---plus aligment
+
+ 
+
+Corner    : L',T,R,T',L,T,R',T'
+
+ 
+
+ 
+
+Rotate Cor:  R ,2T,R',T',R, T',R'
+
+ 
+
+             L',2T,L ,T ,L',T ,L,
+
+
+
+https://www.youtube.com/watch?v=0Gas_T25M18
